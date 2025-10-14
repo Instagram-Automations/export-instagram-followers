@@ -29,7 +29,8 @@ Easily export, schedule, and track your Instagram followers automatically with s
 > Track changes over time — see who followed/unfollowed you automatically with scheduled exports.
 
 <p align="center">
-  <img src="export-instagram-followers.png" alt="export-instagram-followers.png" width="50%">
+  <img src="export-instagram-followers.png" alt="export-instagram-followers.png" width="90
+    %">
 </p>
 
 ### Key Benefits
